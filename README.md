@@ -9,8 +9,8 @@
 - أدوات وإطارات العمل: React, Angular, Spring boot
 
 ## كيفية التواصل معي
-- **البريد الإلكتروني**:[abd.akilan@hotmail.com]
-- ** منصة LinkedIn **: [https://www.linkedin.com/in/aboodz/]
+- البريد الإلكتروني:[abd.akilan@hotmail.com]
+- منصة:[https://www.linkedin.com/in/aboodz/]
 
 
 شكرًا لزيارتك!
