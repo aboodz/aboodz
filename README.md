@@ -1,5 +1,5 @@
 
-# السلام عليكم، مرحبًا بكم في صفحتي على GitHub!
+# السلام عليكم، أهلا بكم في صفحتي على GitHub!
 
 ## نبذة عني
 أنا مطور برمجيات فذ، أركز على البرمجة بلغة الـ JavaScript وبرامج الويب على react واعمل لدى شركة Careem
@@ -9,7 +9,7 @@
 - أدوات وإطارات العمل: React, Angular, Spring boot
 
 ## كيفية التواصل معي
-- **البريد الإلكتروني**: [abd.akilan@hotmail.com]
+- **البريد الإلكتروني**:[abd.akilan@hotmail.com]
 - ** منصة LinkedIn **: [https://www.linkedin.com/in/aboodz/]
 
 
