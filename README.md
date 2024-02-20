@@ -1,4 +1,19 @@
-### Hi there 👋
+
+# السلام عليكم، مرحبًا بكم في صفحتي على GitHub!
+
+## نبذة عني
+أنا مطور برمجيات فذ، أركز على البرمجة بلغة الـ JavaScript وبرامج الويب على react واعمل لدى شركة Careem
+
+## التقنيات التي أستخدمها
+- لغات البرمجة: JavaScript, TypeScript, Java
+- أدوات وإطارات العمل: React, Angular, Spring boot
+
+## كيفية التواصل معي
+- **البريد الإلكتروني**: [abd.akilan@hotmail.com]
+- ** منصة LinkedIn **: [https://www.linkedin.com/in/aboodz/]
+
+
+شكرًا لزيارتك!
 
 <!--
 **aboodz/aboodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
